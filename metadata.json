@@ -1,0 +1,6 @@
+{
+  "name": "QR Code Generator",
+  "description": "A premium client-side QR code generator with support for URLs, contacts, WiFi, images, PDFs, custom styles, frames, and instant exports.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
