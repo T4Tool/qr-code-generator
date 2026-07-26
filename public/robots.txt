@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://qr-studio.app/sitemap.xml
+Sitemap: https://t4tool.github.io/qr-code-generator/sitemap.xml
